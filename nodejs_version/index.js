@@ -1,0 +1,1 @@
+console.log("FRESHBOT-HR Node.js version");

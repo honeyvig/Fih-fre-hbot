@@ -1,0 +1,1 @@
+print("FRESHBOT-HR ROS2 Node Placeholder")
